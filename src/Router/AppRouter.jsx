@@ -21,6 +21,7 @@ const AppRouter = () => {
         <Route path="/skills" element={<SkillPage />} />
       </Routes>
     </>
+    
   );
 };
 

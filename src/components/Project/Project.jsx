@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FaExternalLinkAlt } from 'react-icons/fa';
-import PortfolioImg from '../../assets/ProjectsImg/PortfolioImg.png';
+import PortfolioImg from '../../assets/ProjectsImg/portfolioimg1.png';
 import DelishLicksImg from '../../assets/ProjectsImg/Delish-LicksImg.png';
 import BhagwaticatererImg from '../../assets/ProjectsImg/BhagwaticatererImg.png';
 import JurisnexaImg from '../../assets/ProjectsImg/JurisnexaImg.png';
@@ -13,7 +13,7 @@ const projects = [
     title: 'Portfolio Website',
     description:
       'A responsive and modern portfolio built using React, Tailwind, and Framer Motion to showcase projects, skills, contact info, resume, and enhance personal branding with smooth, engaging animations and clean design.',
-    link: 'https://rawat-portfolio.vercel.app/',
+    link: 'https://vinay730-portfolio.vercel.app/',
     image: PortfolioImg,
     tech: ['React', 'Framer Motion', 'Tailwind'],
   },
