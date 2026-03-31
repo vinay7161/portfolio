@@ -58,14 +58,6 @@ const projects = [
     tech: ["JavaScript", "React", "Tailwind CSS", "Animation"],
   },
   {
-    title: "Delish Licks – Gourmet Restaurant",
-    description:
-      "A modern and vibrant restaurant website offering delicious food, shakes, and an immersive gaming experience. Built with smooth animations, responsive design, and engaging UI for users to explore menu, play zone, and connect easily.",
-    link: "https://www.delish-licks.com/",
-    image: DelishLicksImg,
-    tech: ["React", "Tailwind CSS", "Framer Motion", "React Scroll"],
-  },
-  {
     title: "Shabrigardensbistroltd",
     description:
       "A user-friendly platform showcasing immigration services, client consultations, and document management with secure payment integration.",
