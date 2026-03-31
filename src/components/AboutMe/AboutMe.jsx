@@ -15,8 +15,7 @@ const wordVariants = {
 };
 
 const AboutMe = () => {
-  const description = `I'm a frontend developer, passionate about learning and building beautiful, responsive websites. I enjoy turning ideas into real web experiences using HTML, CSS, JavaScript, and React. Every project helps me grow, and I'm excited to keep learning, improving, and pushing my limits as a developer.`;
-
+  const description = `I'm a frontend developer passionate about building modern, responsive, and user-friendly websites. I work with HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React, and Next.js to create fast and interactive web applications. I enjoy turning ideas into real-world web experiences and continuously learning new technologies to improve my skills as a developer.`;
   const words = description.split(" ");
 
   return (
@@ -71,4 +70,3 @@ const AboutMe = () => {
 };
 
 export default AboutMe;
-
